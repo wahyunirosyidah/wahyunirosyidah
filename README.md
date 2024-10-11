@@ -4,7 +4,7 @@ Perkenalkan nama saya **Wahyuni Fajrin Rosyidah**.<br>
 
 Saya seorang **Mahasiswa** di Universitas Papua.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/wahyuni-fajrin-rosyidah-a96400175/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/wahyuni-fajrin-rosyidah-wfr2021/)ku ya.
 
 <p align="left">
 <a href="https://github.com/penuliscode">
