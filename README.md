@@ -8,10 +8,11 @@
 # Latest Project
 <ul>
 <li><a href=https://github.com/Loka-Jamu target="_blank" rel="noreferrer nofollow">Machine Learning Path - LokaJamu</a></li>
-<li><a href=https://github.com/wahyunirosyidah/submission target="_blank" rel="noreferrer nofollow">Bike Sharing Dashboard 🚲</a></li>
-  <ul>
+    <ul>
     <li><a href=https://bike-sharing-dashboard-wahyunirosyidah.streamlit.app/ target="_blank" rel="noreferrer nofollow">Demo of Bike Sharing Dashboard 🚲</a></li>
   </ul>
+<li><a href=https://github.com/wahyunirosyidah/submission target="_blank" rel="noreferrer nofollow">Bike Sharing Dashboard 🚲</a> <br>
+<a href=https://bike-sharing-dashboard-wahyunirosyidah.streamlit.app/ target="_blank" rel="noreferrer nofollow">Demo of Bike Sharing Dashboard 🚲</a></li>
 </ul>
 
 # Github Stats
