@@ -1,5 +1,5 @@
 # Halo semua! 
-[https://github.com/Mokkapps/mokkapps/blob/master/header.png](https://github.com/wahyunirosyidah/wahyunirosyidah/blob/main/profile%20header.png)
+<img src="https://github.com/wahyunirosyidah/wahyunirosyidah/blob/main/profile%20header.png" alt="GitHub README header image">
 
 Perkenalkan nama saya **Wahyuni Fajrin Rosyidah**.<br>
 
