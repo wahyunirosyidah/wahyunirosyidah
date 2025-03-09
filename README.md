@@ -9,8 +9,8 @@ I am a final-year Informatics Engineering student at Universitas Papua with expe
 <ul>
 <li><a href=https://github.com/Loka-Jamu target="_blank" rel="noreferrer nofollow">Machine Learning Path of LokaJamu App</a><br>
     
-<li><a href=https://github.com/wahyunirosyidah/submission target="_blank" rel="noreferrer nofollow">Bike Sharing Dashboard 🚲</a> <br>
-<a href=https://bike-sharing-dashboard-wahyunirosyidah.streamlit.app/ target="_blank" rel="noreferrer nofollow">Demo of Bike Sharing Dashboard 🚲</a></li>
+<li><a href=https:https://github.com/wahyunirosyidah/Bike-Sharing-Dashboard target="_blank" rel="noreferrer nofollow">Bike Sharing Dashboard 🚲</a> <br>
+<a href=https://wahyunirosyidah-bike-sharing-dashboard.streamlit.app/ target="_blank" rel="noreferrer nofollow">Demo of Bike Sharing Dashboard 🚲</a></li>
 </ul>
 
 # Github Stats
