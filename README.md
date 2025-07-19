@@ -8,7 +8,7 @@ I am a final-year Informatics Engineering student currently focusing on completi
 # Latest Project
 <ul>
 <li><a href=https://github.com/Loka-Jamu target="_blank" rel="noreferrer nofollow">Machine Learning Path of LokaJamu App</a><br>
-    <li><a href=https://github.com/AmorCare target="_blank" rel="noreferrer nofollow">Machine Learning Path of LokaJamu App</a><br>
+<li><a href=https://github.com/AmorCare target="_blank" rel="noreferrer nofollow">Model Research & Training of Amorcare App</a><br>
 <li><a href=https://github.com/wahyunirosyidah/Bike-Sharing-Dashboard target="_blank" rel="noreferrer nofollow">Bike Sharing Dashboard 🚲</a> <br>
 <a href=https://wahyunirosyidah-bike-sharing-dashboard.streamlit.app/ target="_blank" rel="noreferrer nofollow">Demo of Bike Sharing Dashboard 🚲</a></li>
 </ul>
